@@ -64,7 +64,7 @@ const handleAnswer = (points) => {
   }
 
   setTimeout(() => {
-    router.push('/homework6-part1/')
+    router.push('/homework6-8part1-2-3/')
   }, 1000)
 }
 
